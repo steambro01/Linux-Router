@@ -119,3 +119,11 @@ After entnering password you have now used ssh to remote control your router fro
 ## Adding hosts to your LAN
 
 Now you can create as many vm's as your subnet allows and assign them to ip address range of your VLANS
+
+## Links
+```
+# Netplan documentation
+https://netplan.readthedocs.io/en/stable/
+
+# Ubuntu Server documentation
+https://documentation.ubuntu.com/server/how-to/#how-to
