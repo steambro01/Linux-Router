@@ -1,5 +1,5 @@
 # Linux-Router
-Ubuntu Server configured as a virtual router to provide routing, NAT, and VLAN grouping for virtual machines and home lab devices. Includes configurations for Netplan and inter-VLAN routing to simulate enterprise-style networking on a personal setup.
+Ubuntu Server configured as a virtual router to provide routing, NAT, and VLAN grouping for virtual machines and home lab devices. Includes configurations for Netplan and inter VLAN routing to simulate enterprise style networking on a personal setup.
 
 ## ❓ Why use a Linux server as a router?
 
